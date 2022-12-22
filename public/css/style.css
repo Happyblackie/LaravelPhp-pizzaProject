@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.south, .pizza-list, .add-pizza{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.home-container{
+    margin-top: 2rem;
+}
+body{
+    background-image: url(../images/stars.png);
+}
+
